@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/lesson19/static/css/main.073c9b0a.css",
-    "main.js": "/lesson19/static/js/main.6343d486.js",
+    "main.css": "/lesson19/static/css/main.0448dfbc.css",
+    "main.js": "/lesson19/static/js/main.2506cffd.js",
     "static/js/787.f47030f3.chunk.js": "/lesson19/static/js/787.f47030f3.chunk.js",
-    "static/media/logo.svg": "/lesson19/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/heart.svg": "/lesson19/static/media/heart.f8ccf87a521fd29b00617b92a28457ef.svg",
+    "static/media/exchange.svg": "/lesson19/static/media/exchange.ea89a24fd105131020ba7da86efceee6.svg",
+    "static/media/download.svg": "/lesson19/static/media/download.a55a361019fde8f23019b7e815239bc6.svg",
+    "static/media/done.svg": "/lesson19/static/media/done.4c9e6bd12ceeab81c9f26b0620b17f21.svg",
+    "static/media/comment.svg": "/lesson19/static/media/comment.d959c2abbb68badc061be5bc97fb32bd.svg",
     "index.html": "/lesson19/index.html",
-    "main.073c9b0a.css.map": "/lesson19/static/css/main.073c9b0a.css.map",
-    "main.6343d486.js.map": "/lesson19/static/js/main.6343d486.js.map",
+    "main.0448dfbc.css.map": "/lesson19/static/css/main.0448dfbc.css.map",
+    "main.2506cffd.js.map": "/lesson19/static/js/main.2506cffd.js.map",
     "787.f47030f3.chunk.js.map": "/lesson19/static/js/787.f47030f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6343d486.js"
+    "static/css/main.0448dfbc.css",
+    "static/js/main.2506cffd.js"
   ]
 }
